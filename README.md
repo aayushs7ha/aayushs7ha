@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Namaste 🙏 👋
 
 <!--
 **aayushs7ha/aayushs7ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
