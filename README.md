@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Sinha</h1>
-<h3 align="center">Ferreting Out Tidbits of Data for Actionable Insights</h3>
+<h3 align="center"> A Data Science Researcher -> Ferreting Out Tidbits of Data for Actionable Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushs7ha&label=Profile%20views&color=0e75b6&style=flat" alt="aayushs7ha" /> </p>
 
