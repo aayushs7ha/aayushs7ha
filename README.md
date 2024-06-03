@@ -1,6 +1,3 @@
-Here's the enhanced `README.md` file with your name in dodger blue color and the provided GIF link:
-
-```markdown
 <h1 align="center"><font color="dodgerblue">Hi 👋, I'm Aayush Sinha</font></h1>
 <h3 align="center"> A Data Science Researcher, Ferreting Out Tidbits of Data for Actionable Insights</h3>
 
