@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushs7ha&label=Profile%20views&color=0e75b6&style=flat" alt="aayushs7ha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushs7ha" alt="aayushs7ha" /></a> </p>
+![Your GIF](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
 <p align="left"> <a href="https://twitter.com/aayushsin7a" target="blank"><img src="https://img.shields.io/twitter/follow/aayushsin7a?logo=twitter&style=for-the-badge" alt="aayushsin7a" /></a> </p>
 
@@ -23,8 +23,6 @@
 
 - ⚡ Fun fact **I'm a tech enthusiast who codes by day, races pixels by night, and still finds time to hit the open road in search of the perfect driving playlist!**
   
-![Your GIF](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aayushs7ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayushs7ha" height="30" width="40" /></a>
@@ -47,6 +45,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/aayushsi7ha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aayushsi7ha" /></a><a href="https://ko-fi.com/aayushsi7ha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aayushsi7ha" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushs7ha&show_icons=true&locale=en&layout=compact" alt="aayushs7ha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushs7ha&show_icons=true&locale=en" alt="aayushs7ha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushs7ha&show_icons=true&locale=en" alt="aayushs7ha" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushs7ha&show_icons=true&locale=en&layout=compact" alt="aayushs7ha" /></p>
