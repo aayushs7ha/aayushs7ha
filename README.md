@@ -25,8 +25,6 @@
 - 📫 How to reach me **aayush_sinha@live.com**
 
 - ⚡ Fun fact **I'm a tech enthusiast who codes by day, races pixels by night, and still finds time to hit the open road in search of the perfect driving playlist!**
-
-![Your GIF](https://static.wixstatic.com/media/8f2779_07474634024a4d32a6823ba2584635e6~mv2.gif)
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
