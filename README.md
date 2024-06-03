@@ -45,16 +45,25 @@
 <h3 align="left">Support:</h3>
 
 <div style="display: flex; align-items: center;">
-    <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/aayushsi7ha"> 
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aayushsi7ha" />
-    </a>
-    <a href="https://ko-fi.com/aayushsi7ha"> 
-        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aayushsi7ha" />
-    </a>
+    <div>
+        <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/aayushsi7ha"> 
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aayushsi7ha" />
+        </a>
+    </div>
+    <div>
+        <a href="https://ko-fi.com/aayushsi7ha"> 
+            <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aayushsi7ha" />
+        </a>
+    </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushs7ha&show_icons=true&locale=en" alt="aayushs7ha" /></p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushs7ha&show_icons=true&locale=en&layout=compact" alt="aayushs7ha" /></p> 
+    <div>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aayushs7ha&show_icons=true&locale=en" alt="aayushs7ha" /></p>
+    </div>
+    <div>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushs7ha&show_icons=true&locale=en&layout=compact" alt="aayushs7ha" /></p> 
+    </div>
 </div>
+
 
