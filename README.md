@@ -1,5 +1,8 @@
-<h1 align="center"><span style="color: dodgerblue;">Hi 👋, I'm Aayush Sinha</span></h1>
-<h3 align="center"><span style="color: dodgerblue;">A Data Science Researcher - Ferreting Out Tidbits of Data for Actionable Insights</span></h3>
+<div align="center">
+    <h1 style="color: dodgerblue;">Hi 👋, I'm Aayush Sinha</h1>
+    <h3 style="color: dodgerblue;">The Data Alchemist - Delving into the Depths for Actionable Insights</h3>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushs7ha&label=Profile%20views&color=0e75b6&style=flat" alt="aayushs7ha" /> </p>
 
@@ -22,7 +25,9 @@
 - 📫 How to reach me **aayush_sinha@live.com**
 
 - ⚡ Fun fact **I'm a tech enthusiast who codes by day, races pixels by night, and still finds time to hit the open road in search of the perfect driving playlist!**
-  
+
+![Your GIF](https://static.wixstatic.com/media/8f2779_07474634024a4d32a6823ba2584635e6~mv2.gif)
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aayushs7ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayushs7ha" height="30" width="40" /></a>
