@@ -1,5 +1,5 @@
-<h1 align="center" style="color: dodgerblue;">Hi 👋, I'm Aayush Sinha</h1>
-<h3 align="center" style="color: dodgerblue;">A Data Science Researcher - Ferreting Out Tidbits of Data for Actionable Insights</h3>
+<h1 align="center"><span style="color: dodgerblue;">Hi 👋, I'm Aayush Sinha</span></h1>
+<h3 align="center"><span style="color: dodgerblue;">A Data Science Researcher - Ferreting Out Tidbits of Data for Actionable Insights</span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushs7ha&label=Profile%20views&color=0e75b6&style=flat" alt="aayushs7ha" /> </p>
 
